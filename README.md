@@ -1,3 +1,3 @@
 # JoyconVibrator
 Use your Joy-Con as a vibrator.
-Based on https://github.com/Davidobot/BetterJoy
+Edited two lines of code from https://github.com/Davidobot/BetterJoy
